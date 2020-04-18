@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.60e31372.chunk.css",
-    "main.js": "./static/js/main.439a8a0e.chunk.js",
-    "main.js.map": "./static/js/main.439a8a0e.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.60a06960.js",
-    "runtime-main.js.map": "./static/js/runtime-main.60a06960.js.map",
-    "static/css/2.a43b59a1.chunk.css": "./static/css/2.a43b59a1.chunk.css",
-    "static/js/2.0bab05e1.chunk.js": "./static/js/2.0bab05e1.chunk.js",
-    "static/js/2.0bab05e1.chunk.js.map": "./static/js/2.0bab05e1.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.72663004c94d27d6f7a3da113192e04c.js": "./precache-manifest.72663004c94d27d6f7a3da113192e04c.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.a43b59a1.chunk.css.map": "./static/css/2.a43b59a1.chunk.css.map",
-    "static/css/main.60e31372.chunk.css.map": "./static/css/main.60e31372.chunk.css.map",
-    "static/js/2.0bab05e1.chunk.js.LICENSE.txt": "./static/js/2.0bab05e1.chunk.js.LICENSE.txt"
+    "main.css": "/interview-pagegit/static/css/main.60e31372.chunk.css",
+    "main.js": "/interview-pagegit/static/js/main.4db6f183.chunk.js",
+    "main.js.map": "/interview-pagegit/static/js/main.4db6f183.chunk.js.map",
+    "runtime-main.js": "/interview-pagegit/static/js/runtime-main.a76e624a.js",
+    "runtime-main.js.map": "/interview-pagegit/static/js/runtime-main.a76e624a.js.map",
+    "static/css/2.a43b59a1.chunk.css": "/interview-pagegit/static/css/2.a43b59a1.chunk.css",
+    "static/js/2.8aa2abbe.chunk.js": "/interview-pagegit/static/js/2.8aa2abbe.chunk.js",
+    "static/js/2.8aa2abbe.chunk.js.map": "/interview-pagegit/static/js/2.8aa2abbe.chunk.js.map",
+    "index.html": "/interview-pagegit/index.html",
+    "precache-manifest.bde7e2f136c256661d7b215beb15c4fb.js": "/interview-pagegit/precache-manifest.bde7e2f136c256661d7b215beb15c4fb.js",
+    "service-worker.js": "/interview-pagegit/service-worker.js",
+    "static/css/2.a43b59a1.chunk.css.map": "/interview-pagegit/static/css/2.a43b59a1.chunk.css.map",
+    "static/css/main.60e31372.chunk.css.map": "/interview-pagegit/static/css/main.60e31372.chunk.css.map",
+    "static/js/2.8aa2abbe.chunk.js.LICENSE.txt": "/interview-pagegit/static/js/2.8aa2abbe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.60a06960.js",
+    "static/js/runtime-main.a76e624a.js",
     "static/css/2.a43b59a1.chunk.css",
-    "static/js/2.0bab05e1.chunk.js",
+    "static/js/2.8aa2abbe.chunk.js",
     "static/css/main.60e31372.chunk.css",
-    "static/js/main.439a8a0e.chunk.js"
+    "static/js/main.4db6f183.chunk.js"
   ]
 }
