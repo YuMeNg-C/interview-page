@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/interview-pagegit/static/css/main.60e31372.chunk.css",
-    "main.js": "/interview-pagegit/static/js/main.4db6f183.chunk.js",
-    "main.js.map": "/interview-pagegit/static/js/main.4db6f183.chunk.js.map",
-    "runtime-main.js": "/interview-pagegit/static/js/runtime-main.a76e624a.js",
-    "runtime-main.js.map": "/interview-pagegit/static/js/runtime-main.a76e624a.js.map",
-    "static/css/2.a43b59a1.chunk.css": "/interview-pagegit/static/css/2.a43b59a1.chunk.css",
-    "static/js/2.8aa2abbe.chunk.js": "/interview-pagegit/static/js/2.8aa2abbe.chunk.js",
-    "static/js/2.8aa2abbe.chunk.js.map": "/interview-pagegit/static/js/2.8aa2abbe.chunk.js.map",
-    "index.html": "/interview-pagegit/index.html",
-    "precache-manifest.bde7e2f136c256661d7b215beb15c4fb.js": "/interview-pagegit/precache-manifest.bde7e2f136c256661d7b215beb15c4fb.js",
-    "service-worker.js": "/interview-pagegit/service-worker.js",
-    "static/css/2.a43b59a1.chunk.css.map": "/interview-pagegit/static/css/2.a43b59a1.chunk.css.map",
-    "static/css/main.60e31372.chunk.css.map": "/interview-pagegit/static/css/main.60e31372.chunk.css.map",
-    "static/js/2.8aa2abbe.chunk.js.LICENSE.txt": "/interview-pagegit/static/js/2.8aa2abbe.chunk.js.LICENSE.txt"
+    "main.css": "/interview-page/static/css/main.60e31372.chunk.css",
+    "main.js": "/interview-page/static/js/main.103492c9.chunk.js",
+    "main.js.map": "/interview-page/static/js/main.103492c9.chunk.js.map",
+    "runtime-main.js": "/interview-page/static/js/runtime-main.26765bbc.js",
+    "runtime-main.js.map": "/interview-page/static/js/runtime-main.26765bbc.js.map",
+    "static/css/2.a43b59a1.chunk.css": "/interview-page/static/css/2.a43b59a1.chunk.css",
+    "static/js/2.8aa2abbe.chunk.js": "/interview-page/static/js/2.8aa2abbe.chunk.js",
+    "static/js/2.8aa2abbe.chunk.js.map": "/interview-page/static/js/2.8aa2abbe.chunk.js.map",
+    "index.html": "/interview-page/index.html",
+    "precache-manifest.aee0171809abbc2585a387a6dad25320.js": "/interview-page/precache-manifest.aee0171809abbc2585a387a6dad25320.js",
+    "service-worker.js": "/interview-page/service-worker.js",
+    "static/css/2.a43b59a1.chunk.css.map": "/interview-page/static/css/2.a43b59a1.chunk.css.map",
+    "static/css/main.60e31372.chunk.css.map": "/interview-page/static/css/main.60e31372.chunk.css.map",
+    "static/js/2.8aa2abbe.chunk.js.LICENSE.txt": "/interview-page/static/js/2.8aa2abbe.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a76e624a.js",
+    "static/js/runtime-main.26765bbc.js",
     "static/css/2.a43b59a1.chunk.css",
     "static/js/2.8aa2abbe.chunk.js",
     "static/css/main.60e31372.chunk.css",
-    "static/js/main.4db6f183.chunk.js"
+    "static/js/main.103492c9.chunk.js"
   ]
 }
