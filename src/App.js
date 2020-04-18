@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { List, Avatar, Table, Spin } from 'antd'
+import {Table,Spin, Alert } from 'antd'
 import axios from 'axios'
 import useInterval from './hooks/index'
 import './App.css';
@@ -55,7 +55,22 @@ function App({props}) {
         最新职位
         <span style={{float: 'right', paddingRight: '10px'}}>更多</span>
       </div>
-        <div className='list-wrapper' style={{top}} onMouseOver={inDom} onMouseLeave={outDom}>
+        <div className='list'>
+          {fetchCode == "200" ?          
+          <div className='list-wrapper' style={{top}} onMouseOver={inDom} onMouseLeave={outDom} > 
+                <Table
+                  showHeader={true}
+                  dataSource={props ? props : list }
+                  columns={columns}
+                  pagination={false}
+              />
+          </div> :
+          <div className='list-loading'>
+            <Spin tip="Loading..."/>
+          </div>
+          }
+        </div>
+        {/* <div className='list-wrapper' style={{top}} onMouseOver={inDom} onMouseLeave={outDom}>
           {
             fetchCode == "200" ? 
             <Table
@@ -65,7 +80,7 @@ function App({props}) {
               pagination={false}
           /> : null
           }
-      </div>
+      </div> */}
     </div>
   );
 }
