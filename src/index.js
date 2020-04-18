@@ -10,7 +10,7 @@ ReactDOM.render(
   <Router>
     <Switch>
       <React.StrictMode>
-       <Route path='/interview-page/build/' exact component={App}/>
+       <Route path='/' exact component={App}/>
       </React.StrictMode>
     </Switch>
   </Router>,
